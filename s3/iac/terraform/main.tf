@@ -1,3 +1,6 @@
+# terraform init
+# terraform plan
+# terraform delete
 terraform {
   required_providers {
     aws = {
